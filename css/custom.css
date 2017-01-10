@@ -11,4 +11,15 @@ body {
 .box {
 	padding: 10px 10px;
 	background-color: #fff;
+	margin-bottom: 10px;
+}
+.author {
+	font-size: 35px;
+    font-weight: 700;
+    color: #828282;
+}
+.description {
+	color: #828282;
+	font-size: 17px;
+    margin-top: 5px;	
 }
