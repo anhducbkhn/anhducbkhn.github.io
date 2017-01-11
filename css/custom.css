@@ -1,5 +1,6 @@
 body {
 	background-color: #f7f7f7;
+	color: #828282;
 }
 
 .top {
@@ -20,9 +21,26 @@ body {
 }
 .description {
 	color: #828282;
-	font-size: 17px;
+	font-size: 15px;
     margin-top: 5px;	
 }
 .text-center {
 	text-align: center;
+}
+.border-top {
+	border-top: 8px solid;
+}
+.border-color-green {
+	border-top-color: #068478;
+}
+.list-column {
+	list-style: none;
+	padding: 0px;
+}
+h4 {
+    font-size: 23px;
+}
+h5 {
+	font-size: 20px;
+    font-weight: 700;
 }
