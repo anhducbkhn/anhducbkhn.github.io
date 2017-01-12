@@ -33,6 +33,7 @@ body {
 .border-color-green {
 	border-top-color: #068478;
 }
+
 .list-column {
 	list-style: none;
 	padding: 0px;
@@ -44,4 +45,7 @@ h5 {
 	font-size: 20px;
     font-weight: 700;
     margin-top: 0px;
+}
+ul.list-stack li {
+	float: left;
 }
