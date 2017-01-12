@@ -46,6 +46,6 @@ h5 {
     font-weight: 700;
     margin-top: 0px;
 }
-ul.list-stack li {
-	float: left;
+ul.list-column li span:last-child {
+	float: right;
 }
