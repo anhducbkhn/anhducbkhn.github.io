@@ -49,3 +49,6 @@ h5 {
 ul.list-column li span:last-child {
 	float: right;
 }
+.fix-height {
+	height: 150px;
+}
