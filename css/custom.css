@@ -49,6 +49,9 @@ h5 {
 ul.list-column li span:last-child {
 	float: right;
 }
+ul.list-column li span.left{
+	float: left;
+}
 .fix-height {
 	height: 150px;
 }
